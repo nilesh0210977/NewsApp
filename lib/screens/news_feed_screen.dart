@@ -35,7 +35,7 @@ class NewsFeedScreenState extends State<NewsFeedScreen> {
   //   });
   // }
 
-  // In your NewsFeedScreen
+  // 
 void loadNews() {
   setState(() {
     if (currentSource == 'the-wall-street-journal') {
